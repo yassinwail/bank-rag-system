@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+.vscode/
+*.log
+.streamlit/secrets.toml
+data/chroma_store/
+data/cbe_extracted/
+data/policy_docs/
+data/cbe/
